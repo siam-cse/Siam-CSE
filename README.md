@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=28&duration=4000&width=750&lines=A+Noob+Programmer...+Who+Always+Eager+To+Learn+😜+...;Now,++I+Am+💻+Working+With+🥰+JavaScript...❤)](https://siyamulislam.blogspot.com/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=28&duration=5000&width=750&lines=A+Noob+Programmer...+Who+Always+Eager+To+Learn+😜+...;Now,++I+Am+💻+Working+With+🥰+JavaScript...❤)](https://siyamulislam.blogspot.com/)
 
 <div align="center">
 
