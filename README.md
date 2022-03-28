@@ -11,7 +11,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=24&duration=4000&width=750&lines=A+Noob+Programmer...+who+always+eager+to+learn++...+😜;Now+I+Am+Working+With+🥰JavaScript...❤)](https://siyamulislam.blogspot.com/)
 
 <h2 align="center">
-  <a href="https://github.com/Siam-CSE"><img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+developer+;API+developer;Frontend+developer;user+interface+(UI);user+experience+(UX);Competitive+Programmer;DS%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20thingscolor=8000FF&&center=true&width=500&height=50"></a>
+  <a href="https://github.com/Siam-CSE"><img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+developer+;API+developer;Frontend+developer;user+interface+(UI);user+experience+(UX);Competitive+Programmer;DS%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&color=8000FF&center=true&width=500&height=50"></a>
 </h2>
 </div>
 
