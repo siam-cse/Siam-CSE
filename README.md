@@ -4,9 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8000FF&width=750&lines=I'm+a+Programmer,Developer,Designer+and+Freelancer+💻)](https://git.io/typing-svg)
-<!-- I'm+a+Programmer,Developer,Designer+and+Freelancer -->
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8000FF&width=750&lines=I'm+a+Programmer,Developer,Designer+and+Freelancer+💻)]
 
 <!---
 Siam-CSE/Siam-CSE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
