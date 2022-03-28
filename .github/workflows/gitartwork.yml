@@ -11,8 +11,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: jasineri/gitartwork@v1
+      - uses: Siam-CSE/gitartwork@v1
         with:
-           user_name: jasineri
-           text: JASINERI
-      - uses: jasineri/simple-push-action@v1
+           user_name: Siam-CSE
+           text: SIAM
+      - uses: Siam-CSE/simple-push-action@v1
