@@ -64,7 +64,7 @@ https://github.com/Siam-CSE/Siam-CSE/blob/output/github-contribution-grid-snake.
   ABOUT ME
 </h1>
   
-<img width="105" height="105" src="./images/devZone.png" />
+<img width="105" height="105" src="./image/devZone.png" />
 
 <h3>'A infinity study moment :  💓'</h3>
 
